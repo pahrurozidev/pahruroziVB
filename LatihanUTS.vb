@@ -15,7 +15,7 @@
                 txtjurusan.Text = "Teknik Kimia"
             Case "Hafif Nur Muhammad"
                 txtnim.Text = "1901010235"
-                txtjenjang.Text = "Master"
+                txtjenjang.Text = "Doctor"
                 txtjurusan.Text = "Programmer"
         End Select
     End Sub
